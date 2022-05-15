@@ -1,0 +1,9 @@
+1,1,0.0055248618784530384,RandomParty@8,(Offer  bid:Bid[Pie: a753, ])
+1,2,0.0055248618784530384,ConcederNegotiationParty@9,(Offer  bid:Bid[Pie: a0, ])
+2,1,0.011049723756906077,RandomParty@8,(Offer  bid:Bid[Pie: a390, ])
+2,2,0.011049723756906077,ConcederNegotiationParty@9,(Offer  bid:Bid[Pie: a74, ])
+3,1,0.016574585635359115,RandomParty@8,(Offer  bid:Bid[Pie: a358, ])
+3,2,0.016574585635359115,ConcederNegotiationParty@9,(Offer  bid:Bid[Pie: a105, ])
+4,1,0.022099447513812154,RandomParty@8,(Offer  bid:Bid[Pie: a118, ])
+4,2,0.022099447513812154,ConcederNegotiationParty@9,(Accept  bid:Bid[Pie: a118, ])
+agreement,Bid[Pie: a118, ],0.118,0.882
